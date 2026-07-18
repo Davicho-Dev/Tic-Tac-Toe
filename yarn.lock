@@ -1744,9 +1744,9 @@ __metadata:
   linkType: hard
 
 "@tootallnate/once@npm:2":
-  version: 2.0.0
-  resolution: "@tootallnate/once@npm:2.0.0"
-  checksum: ad87447820dd3f24825d2d947ebc03072b20a42bfc96cbafec16bff8bbda6c1a81fcb0be56d5b21968560c5359a0af4038a68ba150c3e1694fe4c109a063bed8
+  version: 2.0.1
+  resolution: "@tootallnate/once@npm:2.0.1"
+  checksum: 487b59b5adb8458dc13394a5aae997bf9705c51fa1e2396c50cd967019d06b273faba3c4d9e7895a996b9e9b055f1c55e53d822e54b3e9c298bcb4f6967cd0d5
   languageName: node
   linkType: hard
 
@@ -5281,13 +5281,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"picocolors@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "picocolors@npm:1.0.0"
-  checksum: a2e8092dd86c8396bdba9f2b5481032848525b3dc295ce9b57896f931e63fc16f79805144321f72976383fc249584672a75cc18d6777c6b757603f372f745981
-  languageName: node
-  linkType: hard
-
 "picocolors@npm:^1.1.1":
   version: 1.1.1
   resolution: "picocolors@npm:1.1.1"
@@ -5325,14 +5318,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.4.18":
-  version: 8.4.31
-  resolution: "postcss@npm:8.4.31"
+"postcss@npm:^8.5.3":
+  version: 8.5.19
+  resolution: "postcss@npm:8.5.19"
   dependencies:
-    nanoid: ^3.3.6
-    picocolors: ^1.0.0
-    source-map-js: ^1.0.2
-  checksum: 1d8611341b073143ad90486fcdfeab49edd243377b1f51834dc4f6d028e82ce5190e4f11bb2633276864503654fb7cab28e67abdc0fbf9d1f88cad4a0ff0beea
+    nanoid: ^3.3.12
+    picocolors: ^1.1.1
+    source-map-js: ^1.2.1
+  checksum: c977ac0c159f7833ceb212c9cb2c1b75845703a2e620f2eb1cd719ee91290a830acf0385f8695f56470560e501e619ef1518a9e7ee2f54bde935484cc73b624c
   languageName: node
   linkType: hard
 
